@@ -21,5 +21,10 @@ Download Aplikasi Android Clien dan Penyedia Internet
 https://drive.google.com/file/d/1YupQqrozOnLgC1aB2sldtW9PlJdVa4FR/view?usp=drivesdk
 # PROMO Free 200 USER
 
-Cl![beey](https://github.com/user-attachments/assets/bee0e8f5-e374-408b-bd7e-6373da788c9f)
-ien
+![beey](https://github.com/user-attachments/assets/bee0e8f5-e374-408b-bd7e-6373da788c9f)
+
+* Poses Update multi bahasa 
+* Update Payment Gateway By Duitku and dibursment All bank local Indonesia
+* Notifikasi whatsapp and android Notification
+
+
