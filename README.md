@@ -1,5 +1,5 @@
 # Beeypay
-Aplikasi Pembayaran Internet dengan API Mikrotik
+Aplikasi Pembayaran Internet dengan API Mikrotik PHP
 
 Berikut adalah rangkuman tentang aplikasi Beeypay:
 
@@ -16,6 +16,8 @@ Aplikasi Beeypay adalah sebuah platform pembayaran yang dirancang khusus untuk p
 - Meningkatkan efisiensi dan produktivitas.
 - Menyediakan laporan yang akurat dan terkini.
 
+Daftar Sebagai Penyedia Internet
+https://register.app.backodepay.mra.my.id/
 
 Download Aplikasi Android Clien dan Penyedia Internet
 https://drive.google.com/file/d/1YupQqrozOnLgC1aB2sldtW9PlJdVa4FR/view?usp=drivesdk
