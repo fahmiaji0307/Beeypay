@@ -16,5 +16,4 @@ Aplikasi Beeypay adalah sebuah platform pembayaran yang dirancang khusus untuk p
 - Meningkatkan efisiensi dan produktivitas.
 - Menyediakan laporan yang akurat dan terkini.
 
-# Simpan sebagai Draft
-Teks ini dapat disimpan sebagai draft untuk digunakan sebagai acuan atau promosi aplikasi Beeypay.
+
